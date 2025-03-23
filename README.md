@@ -6,12 +6,12 @@ Webaite ini dibuat sebagai bagian dari tugas praktikum PWEB. Website ini dikemba
 - Informasi Lengkap: Menyajikan spesifikasi detail dari Ford Fiesta 2013.
 - Review: Tinjauan mendalam mengenai desain, mesin, kaki-kaki, fitur, dan kenyamanan.
 - Galeri Gambar: Menampilkan tampilan eksterior dan interior mobil.
-- Sistem Review Interaktif: Pengguna dapat menambahkan ulasan mengenai mobil.
+- Sistem Simulasi Kredit: Menyajikan simulasi kredit
 
 ## Teknologi yang Digunakan
 - HTML: Struktur dasar website
 - CSS: Styling untuk tampilan yang menarik
-- JavaScript: Interaktivitas dan sistem ulasan
+- JavaScript: Interaktivitas
 - GitHub & Vercel: Hosting dan deployment
 
 ## Struktur Folder
